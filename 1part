@@ -21,4 +21,4 @@ while True:
         print('У вас %d очков и вы закончили игру.' %count)
         break
 
-print('прощайте!')
+print('не уходи!')
